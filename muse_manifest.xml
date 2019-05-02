@@ -1,0 +1,111 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="l11yo.github.io" resolutions="1x" timestamp="1556789573661">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4191659456" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="資產 2.png" crc="345934929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 1.png" crc="3826447305" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="耳塞(大集合3)244.png" crc="223343863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 8@2x.png" crc="4034866457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 3.png" crc="4195703864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 12.png" crc="218076751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 4@2x.png" crc="11545673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 5@2x.png" crc="3840248448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 6@2x.png" crc="4081032961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 1@2x.png" crc="321251381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 2@2x.png" crc="182813797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 3@2x.png" crc="4271254667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="耳塞(大集合3)251.png" crc="4274199685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_1@2x.png" crc="231988287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 20.png" crc="192947633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 19.png" crc="4166016294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 14.png" crc="477749480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 15.png" crc="367306803" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 16.png" crc="69656747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 17.png" crc="3905957538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 18.png" crc="4117241928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 11.png" crc="425384637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 122.png" crc="252798371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 172.png" crc="460330238" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 152.png" crc="3799000670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 182.png" crc="3793753115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 13.png" crc="447024794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 192.png" crc="130082471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 142.png" crc="4234256385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 202.png" crc="3835712162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="資產 162.png" crc="4121241999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="258005277" seo="true" mt="1556786206057" redirect="true"/>
+</manifest>
